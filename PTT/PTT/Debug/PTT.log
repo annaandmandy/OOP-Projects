@@ -1,0 +1,9 @@
+﻿  Viewer.cpp
+C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\PTT\Board.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\PTT\Viewer.cpp(67,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\PTT\Viewer.cpp(93,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\PTT\Viewer.cpp(113,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\PTT\Viewer.cpp(118,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\PTT\Viewer.cpp(167,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\PTT\Viewer.cpp(170,27): warning C4018: '<': signed/unsigned 不相符
+  PTT.vcxproj -> C:\Users\User\Desktop\PTT(trytry)\PTT_1229\PTT(trytry)\PTT\Debug\PTT.exe

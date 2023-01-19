@@ -1,0 +1,5 @@
+gossip
+c_chat
+joke
+stock
+nSwitch
