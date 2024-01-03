@@ -1,0 +1,101 @@
+﻿  calculation.cpp
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(23,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(50,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(90,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(117,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(131,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(142,32): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(152,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(187,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(221,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(234,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(300,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(307,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(316,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(354,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(410,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(586,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(624,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(626,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(630,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(647,23): warning C4018: '>': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(656,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(680,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(682,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(686,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(706,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(734,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(746,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(771,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(807,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(813,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(828,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(833,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(855,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(864,29): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(927,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(935,29): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(946,20): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(961,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(987,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1000,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1077,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1087,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1097,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1107,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1131,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1163,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1171,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1085,13): warning C4101: 'num': 未參考的區域變數
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1202,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1215,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1292,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1302,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1312,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1331,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1363,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1371,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1300,13): warning C4101: 'num': 未參考的區域變數
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1424,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1448,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1453,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1494,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1501,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1509,33): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1522,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1527,42): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1574,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1582,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1608,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1615,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1678,38): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1686,41): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1695,32): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1721,38): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1730,34): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1746,30): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1786,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1805,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1885,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1903,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(1983,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2028,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2054,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2216,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2567,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2579,55): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2626,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2637,55): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2649,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2668,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2722,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2743,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2743,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2755,55): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2788,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2849,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2861,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Project2\calculation.cpp(2932,23): warning C4018: '<': signed/unsigned 不相符
+  Project2.vcxproj -> C:\Users\ASUS-I5\Desktop\1092\物件導向\PROJECT_大數計算機\Project1\bigIntcalculate\Debug\Project2.exe

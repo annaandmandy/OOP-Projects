@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Users\annaa\CS3005302W06\TS0602\PrimeNumber.h(65): warning C4715: 'PrimeNumber::operator++': 不是所有控制路徑都傳回值
+D:\Users\annaa\CS3005302W06\TS0602\PrimeNumber.h(82): warning C4715: 'PrimeNumber::operator--': 不是所有控制路徑都傳回值
+D:\Users\annaa\CS3005302W06\TS0602\PrimeNumber.h(99): warning C4715: 'PrimeNumber::operator--': 不是所有控制路徑都傳回值
+D:\Users\annaa\CS3005302W06\TS0602\PrimeNumber.h(48): warning C4715: 'PrimeNumber::operator++': 不是所有控制路徑都傳回值
+  TS0602.vcxproj -> D:\Users\annaa\CS3005302W06\x64\Debug\TS0602.exe
